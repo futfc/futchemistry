@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start -p $PORT"
+    "start": "next start -p $PORT",
+    "export": "next export"
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",

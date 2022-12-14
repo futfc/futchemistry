@@ -1,3 +1,9 @@
-module.exports = {
-  /* config options here */
+const nextConfig   = {
+	images: {
+		loader: 'akamai',
+		path: '',
+	},
+	assetPrefix: './',
 };
+
+export default   nextConfig;

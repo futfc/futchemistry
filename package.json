@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start -p $PORT",
-    "export": "next export"
+    "export": "next export",
+    "postbuild": "next-sitemap"
   },
   "dependencies": {
     "@headlessui/react": "^1.5.0",
@@ -14,6 +15,7 @@
     "@tailwindcss/typography": "^0.5.2",
     "isomorphic-unfetch": "^3.1.0",
     "next": "^12.1.4",
+    "next-sitemap": "^3.1.32",
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "sharp": "^0.30.5"

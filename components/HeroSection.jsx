@@ -11,37 +11,12 @@ function HeroSection({ downloadLink }) {
             <span className="pb-3 block sm:pb-5">FUT Chemistry</span>
           </h1>
           <p className="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
-            Helps FUT player finds the best formation to link between FUT card. <br/>
-            Fastest algorithm with great UI/UX.
+            Best tool to maximize your team chemistry in FUT 23! We will give you the best line-up of your team with fast and easy way
           </p>
           <div className="mt-10 sm:mt-12">
             <div className="grid grid-cols-3">
-              <Link href={downloadLink}>
-                <a target="_blank" rel="noopener noreferrer">
-                  <Image
-                    src="/images/badge_appstore.png"
-                    alt="Get fut chemistry on Appstore."
-                    width={564}
-                    height={168}
-                    layout="responsive"
-                    objectFit="cover"
-                  />
-                </a>
-              </Link>
-              <Link href={''}>
-                <a target="_blank" rel="noopener noreferrer">
-                  <Image
-                      src="/images/badge_google_play.png"
-                      alt="Get fut chemistry on Google Play."
-                      width={564}
-                      height={168}
-                      layout="responsive"
-                      objectFit="cover"
-                  />
-                </a>
-              </Link>
-              <Link href={''}>
-                <a target="_blank" rel="noopener noreferrer">
+              <Link href={'https://app.futchemistry.com'}>
+                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover mx-2">
                   <Image
                       src="/images/badge_pwa.png"
                       alt="Get fut chemistry on Google Play."
@@ -52,6 +27,31 @@ function HeroSection({ downloadLink }) {
                   />
                 </a>
               </Link>
+              <Link href={downloadLink}>
+                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover mx-2">
+                  <Image
+                    src="/images/badge_appstore_comingsoon.png"
+                    alt="Get fut chemistry on Appstore."
+                    width={564}
+                    height={168}
+                    layout="responsive"
+                    objectFit="cover"
+                  />
+                </a>
+              </Link>
+              <Link href={''}>
+                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover mx-2">
+                  <Image
+                      src="/images/badge_google_play_comingsoon.png"
+                      alt="Get fut chemistry on Google Play."
+                      width={564}
+                      height={168}
+                      layout="responsive"
+                      objectFit="cover"
+                  />
+                </a>
+              </Link>
+
             </div>
           </div>
         </div>

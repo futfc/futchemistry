@@ -47,6 +47,10 @@
     opacity: 1;
 }
 
+.glow-on-hover.glow:before {
+    opacity: 1;
+}
+
 .glow-on-hover:after {
     z-index: -1;
     content: '';

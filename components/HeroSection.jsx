@@ -27,10 +27,10 @@ function HeroSection({ downloadLink }) {
                   />
                 </a>
               </Link>
-              <Link href={downloadLink}>
-                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover mx-2">
+              <Link href={'https://apps.apple.com/us/app/fut-chemistry-booster/id1659694392'}>
+                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover glow mx-2">
                   <Image
-                    src="/images/badge_appstore_comingsoon.png"
+                    src="/images/badge_appstore.png"
                     alt="Get fut chemistry on Appstore."
                     width={564}
                     height={168}
@@ -39,10 +39,10 @@ function HeroSection({ downloadLink }) {
                   />
                 </a>
               </Link>
-              <Link href={''}>
-                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover mx-2">
+              <Link href={'https://play.google.com/store/apps/details?id=com.futchemistry.app&hl=en&gl=US'}>
+                <a target="_blank" rel="noopener noreferrer" className="glow-on-hover glow mx-2">
                   <Image
-                      src="/images/badge_google_play_comingsoon.png"
+                      src="/images/badge_google_play.png"
                       alt="Get fut chemistry on Google Play."
                       width={564}
                       height={168}

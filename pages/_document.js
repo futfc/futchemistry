@@ -24,10 +24,7 @@ function Document() {
 					name="og:image"
 					content="https://futchemistry.com/banner.png"
 				/>
-				<meta
-					name="twitter:url"
-					content="https://salindersidhu.github.io/quakemap"
-				/>
+
 				<meta name="twitter:title" content="FutChemistry"/>
 				<meta
 					name="twitter:description"

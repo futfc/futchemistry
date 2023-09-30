@@ -31,7 +31,7 @@ const Features = [
   {
     title: "More chemistry = more win",
     description:
-      "Enjoy your Fifa Ultimate Team and win more, easy game, easy life",
+      "Enjoy your FC 24 Ultimate Team and win more, easy game, easy life",
     image: "4.png",
     icon: FireIcon,
   }

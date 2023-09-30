@@ -7,7 +7,7 @@ function Document() {
 				<meta name="title" content="FUT chemistry"/>
 				<meta
 					name="description"
-					content="Boost fut 23 squad chemistry, optimize fut 23 squad chemistry, fast, free mobile app"
+					content="Boost fut 24, fc 24, ea fc 24 squad chemistry, optimize fut 24, fc 24, ea fc 24 squad chemistry, fast, free mobile app"
 				/>
 				<meta name="og:site_name" content="Fut chemistry"/>
 				<meta name="og:type" content="website"/>
@@ -18,7 +18,7 @@ function Document() {
 				<meta name="og:title" content="FUT chemistry"/>
 				<meta
 					name="og:description"
-					content="Boost fut 23 squad chemistry, optimize fut 23 squad chemistry, fast, free mobile app"
+					content="Boost fut 24, fc 24, ea fc 24 squad chemistry, optimize fut 24, fc 24, ea fc 24 squad chemistry, fast, free mobile app"
 				/>
 				<meta
 					name="og:image"
@@ -28,7 +28,7 @@ function Document() {
 				<meta name="twitter:title" content="FutChemistry"/>
 				<meta
 					name="twitter:description"
-					content="Boost fut 23 squad chemistry, optimize fut 23 squad chemistry, fast, free mobile app"
+					content="Boost fut 24, fc 24, ea fc 24 squad chemistry, optimize fut 24, fc 24, ea fc 24 squad chemistry, fast, free mobile app"
 				/>
 				<meta
 					name="twitter:image"

@@ -11,7 +11,7 @@ function HeroSection({ downloadLink }) {
             <span className="pb-3 block sm:pb-5">FUT Chemistry</span>
           </h1>
           <p className="text-base text-gray-300 sm:text-xl lg:text-lg xl:text-xl">
-            Best tool to maximize your team chemistry in FUT 23! We will give you the best line-up of your team with fast and easy way
+            Best tool to maximize your team chemistry in FUT 24, FC 24! We will give you the best line-up of your team with fast and easy way
           </p>
           <div className="mt-10 sm:mt-12">
             <div className="grid grid-cols-3">

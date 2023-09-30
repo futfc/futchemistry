@@ -19,7 +19,7 @@ function Home() {
   return (
     <>
       <Head>
-        <title>FUT Chemistry, FUT 23 chemistry optimizer </title>
+        <title>FUT Chemistry, FUT 24, FC 24 chemistry optimizer </title>
       </Head>
       <HeaderSection navigation={HeaderNavigation} />
       <HeroSection downloadLink={Links.download} />
